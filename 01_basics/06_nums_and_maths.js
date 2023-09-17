@@ -33,7 +33,7 @@ console.log(Math.PI);
 console.log(Math.SQRT2);
 */
 
-// console.log((Math.random() * 20) + 1);
+console.log((Math.random() * 20) + 1);
 // console.log(Math.trunc((Math.random() * 20) + 1));
 
 const min = 10;
